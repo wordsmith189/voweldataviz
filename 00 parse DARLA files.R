@@ -1,6 +1,7 @@
 # This script looks inside the folder "data" for any CSV files.
 # It opens them one by one and tries to join all of them in one 
 # new file.
+# Written by Lars Hinrichs, lh@utexas.edu
 
 # Install (if necessary) and load pacman.
 if (!require(pacman)){
