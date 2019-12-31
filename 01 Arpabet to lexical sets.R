@@ -1,6 +1,8 @@
 
 # This script translates vowel labels from Arpabet (used by 
 # default in DARLA) to Wells lexical set labels.
+# Written by Lars Hinrichs, lh@utexas.edu
+
 
 # Install (if necessary) and load pacman.
 if (!require(pacman)){
